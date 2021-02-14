@@ -10,3 +10,5 @@ This code estimates the sleep pattern parameters from the distribution of rest i
 ## Main_4_Mathematical_Model_of_Sleep_Pattern.m
 This code is for the simulation of the sleep process of the fly. The mathematical model considered a rest zone and sleep zone in the 2D grid (50x50). The time distribution of a random walker staying in the grid corresponds to the time distribution of the fly's rest behavior observed in the experiments.
 
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
